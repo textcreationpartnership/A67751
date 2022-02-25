@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An experimental index of the heart, or, Self-knowledge in which (as in a looking-glasse) the civillest of men may see what need they have of a redeemer : and that it most deeply concerns them with all speed to sue out their pardon in Christ and to rely wholly and only upon free-grace for pardon and salvation : except they prefer an everlasting furnace of fire and brimstone in hell, before an eternal weight of super-abundant glory in heaven, as all (most sottishly) do that by sinne and Satan are bewitched / drawn up and published for the good of all by R. Younge of Roxwell in Essex, Florilegus.</title>
+            <author>Younge, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67751</idno>
+            <idno type="STC">Wing Y155</idno>
+            <idno type="STC">ESTC R231259</idno>
+            <idno type="EEBO-CITATION">08794237</idno>
+            <idno type="OCLC">ocm 08794237</idno>
+            <idno type="VID">41867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1272:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An experimental index of the heart, or, Self-knowledge in which (as in a looking-glasse) the civillest of men may see what need they have of a redeemer : and that it most deeply concerns them with all speed to sue out their pardon in Christ and to rely wholly and only upon free-grace for pardon and salvation : except they prefer an everlasting furnace of fire and brimstone in hell, before an eternal weight of super-abundant glory in heaven, as all (most sottishly) do that by sinne and Satan are bewitched / drawn up and published for the good of all by R. Younge of Roxwell in Essex, Florilegus.</title>
+                  <author>Younge, Richard.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>sold only by James Crump,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Add this as a third part to the Trial of true wisdom, and those three fundamental principles of the Christian religion intituled: A short and sure way to grace and salvation."</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41867:1"/>
+            <pb n="1" facs="tcp:41867:1" rendition="simple:additions"/>
+            <p>AN Experimental INDEX of the HEART: <hi>OR,</hi> SELF-KNOWLEDGE.</p>
+            <p>
+               <hi>In which</hi> (<hi>As in a</hi> Looking-glaſſe) <hi>the</hi> civilleſt of men <hi>may ſee what need they have of a</hi> Redeemer; <hi>and that it moſt deeply concerns them with all ſpeed, to ſue out their</hi> pardon in Chriſt, <hi>and to rely wholly and only upon</hi> Free-grace, <hi>for</hi> par<g ref="char:EOLhyphen"/>don <hi>and</hi> Salvation; <hi>except they prefer an everlaſting furnace of fire and brimſtone in</hi> Hell, <hi>before an eternal weight of ſuper<g ref="char:EOLhyphen"/>abundant glory in</hi> Heaven, <hi>as all (moſt ſottiſhly) do, that by</hi> ſinne <hi>and</hi> Satan
+<hi>are bewitched.</hi>
+            </p>
+            <p>Drawn up and publiſhed for the good of all, By <hi>R. Younge</hi> of <hi>Roxwell</hi> in
+<hi>Eſſex, Florilegus.</hi>
+            </p>
+            <p>Add this as a <hi>Third Part</hi> to the <hi>Trial of true Wiſdom,</hi> and thoſe <hi>Three Fundamental Principles of Chriſtian Religion,</hi> Intituled, <hi>A ſhort and ſure Way to Grace and Salvation.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="27" type="section">
+            <head>Sect. XXVII.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg> Looſe Libertine,</hi> meeting with his Friend that had lately been a <hi>Formal Chriſtian;</hi> he greets him as followeth:</p>
+            <sp>
+               <p>SIR, methinks I have obſerved in you a ſtrange alte<g ref="char:EOLhyphen"/>ration, ſince our laſt meeting at
+<hi>Middleburrough:</hi> not only in your behaviour, company, and converſe; but even in your countenance: What is the matter, if I may be ſo bold?</p>
+            </sp>
+            <sp>
+               <speaker>Convert.</speaker>
+               <p> Truly Sir, you are not at all miſtaken, nor am I unwilling to acquaint you with the cauſe; if you can affoard to hear it.</p>
+               <p>Soon after my return into <hi>England,</hi> I was carried by a Friend to hear a <hi>Sermon:</hi> where the <hi>Miniſter</hi> ſo repreſented the very <hi>thoughts, ſecrets,</hi> and
+<pb n="2" facs="tcp:41867:2"/>
+                  <hi>deceitfulneſſe</hi> of my <hi>heart</hi> unto my <hi>conſcience;</hi> that I could not but ſay of him, as the <hi>woman of Samaria</hi> once ſpake of <hi>our Saviour: He hath told me all things that ever I did.</hi> Which made me conclude with that
+<hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>believer,</hi> 1 Cor. 14.24, 25. <hi>That God was in him of a truth:</hi> nor could he ever have ſo done, <hi>if he were not of God.</hi> As the <hi>young man</hi> in the
+<hi>Gospel</hi> reaſoned with the <hi>Phariſees,</hi> touching <hi>Jeſus</hi> when he had
+<hi>opened his eyes, that had been blind from his birth,</hi> Joh. 9.32, 33. Whereupon I could have no peace nor reſt, untill I had further communed with him about my eſtate; for I found my ſelf in a loſt condition touching <hi>Eternity:</hi> It faring with me as it did with thoſe
+<hi>Jews, Act.</hi> 2. when <hi>Peter</hi> by his ſearching Sermon, had convinced them, that
+<hi>Chriſt, whom they had by wicked hands crucified and ſlain, was the only Son of God, and Lord of glory,</hi> ver. 36, 37. And having had the happineſſe to enjoy the benefit of his ſage advice as I ſtood in need thereof; (<hi>God</hi> having given him <hi>the tongue of the learned, to adminiſter a word is ſeaſon to them that are weary,</hi> Iſa 50.4.) I bleſſe <hi>God,</hi> his <hi>Word</hi> and <hi>Spirit</hi> hath wrought in me ſuch a change and ſtrange alteration, that it hath <hi>opened</hi> mine <hi>eyes</hi> that were <hi>blind</hi> before, <hi>in<g ref="char:EOLhyphen"/>clined</hi> my <hi>will</hi> to <hi>obedience,</hi> which before was <hi>rebellious, ſoftened</hi> my <hi>heart, ſanctified</hi> and quite changed my <hi>affections:</hi> ſo that I now <hi>love</hi> that <hi>good</hi> which before I <hi>hated,</hi> and <hi>hate</hi> that
+<hi>evil</hi> which before I <hi>loved;</hi> and am <hi>delighted</hi> with thoſe <hi>holy exerciſes,</hi> which heretofore did moſt <hi>displeaſe me;</hi> and am <hi>displeaſed</hi> with thoſe <hi>vain pleaſures</hi> and <hi>filthy ſins</hi> which in times paſt did moſt
+<hi>delight</hi> me. Which is ſuch a mercy, that no tongue is able to expreſſe! For till that hour I went on in <hi>the broad way,</hi> and <hi>worlds road to deſtruction,</hi> without any
+<hi>miſtruſt;</hi> whereas now <hi>God</hi> hath been pleaſed to take me into his <hi>Kingdom of grace here,</hi> and will never leave me, untill he hath brought me to his <hi>Kingdom of glory hereafter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Looſe Libertine.</speaker>
+               <p> What you ſpeak makes me wonder: for I ever held you the compleateſt man of my acquaintance;
+<hi>juſt</hi> in all your dealings, <hi>temperate</hi> and <hi>civil</hi> in your deportment; yea, I have never ſeen you ex<g ref="char:EOLhyphen"/>ceed in the leaſt, or heard you ſwear an <hi>Oath,</hi> except
+<hi>faith</hi> and <hi>troth,</hi> and that very rarely. Beſides, you have been a good
+<hi>Proteſtant,</hi> and gone to <hi>Church</hi> all your daies.</p>
+            </sp>
+            <sp>
+               <speaker>Convert.</speaker>
+               <p> What you ſpeak, none that know me, can contradict; nor could they ever accuſe me of any ſcandalous crime, or unjuſt act. Yea, I had the ſame thoughts of my ſelf; and ſhould any one have told me formerly, that I was ſuch a <hi>great ſinner,</hi> ſuch a <hi>Devil Incarnate</hi> as I was! I ſhould have replied as <hi>Hazael</hi> did to the <hi>Prophet,</hi> (telling him of the a<g ref="char:EOLhyphen"/>bominable wickedneſſe he would e're long commit) <hi>What am I a dog,</hi> &amp;c. 2 Kings 8.12, 13. And no wonder, for as every <hi>man</hi> in his
+<hi>natural</hi> con<g ref="char:EOLhyphen"/>dition, is ſtark <hi>blind to ſpiritual objects,</hi> 1 Cor. 2.14. ſo
+<hi>the heart of man is deceitfull above all things:</hi> even ſo deceitfull, that <hi>none</hi> but <hi>God</hi> alone can <hi>know it,</hi> as the <hi>Prophet</hi> ſhews, <hi>Jer.</hi> 17.10. But becauſe this is a truth that tranſcends your belief, and becauſe it may be of ſingular uſe to you alſo, to know the ſame: I will give you a ſhort <hi>character</hi> of my former condi<g ref="char:EOLhyphen"/>tion; the which done, I doubt not but you will aſſent unto what I have hitherto ſaid, or ſhall further relate.</p>
+            </sp>
+         </div>
+         <div n="28" type="section">
+            <pb n="3" facs="tcp:41867:2"/>
+            <head>Sect. XXVIII.</head>
+            <sp>
+               <p>Firſt, Touching my knowledg, (I mean <hi>ſaving knowledg,</hi> without which <hi>the ſoul cannot be good,</hi> us wiſe <hi>Solomon</hi> witneſſeth, <hi>Prov.</hi> 19.2.) It was ſuch, (though I thought my ſelf wiſer than to make ſcruple of, or perplex my ſelf about matters of <hi>Religion,</hi> as do the <hi>Religious:</hi> even as the King of <hi>Tyrus</hi> thought himſelf <hi>wiſer than Daniel,</hi> Ezek. 28.3.) that <hi>ſpiri<g ref="char:EOLhyphen"/>tual things</hi> were moſtly repreſented to my underſtanding falſe, and clean contrary to what they are indeed. Like <hi>corporal things</hi> in a <hi>Looking-glaſs,</hi> wherein thoſe that are on the
+<hi>right hand</hi> ſeem to be on <hi>the left,</hi> and thoſe that are on the <hi>left hand</hi> ſeem to be on the <hi>right.</hi> As it fared with Saint <hi>Paul,</hi> while he was in his natural condition, <hi>Act.</hi> 26.9. which made me think and call <hi>evil, good;</hi> and
+<hi>good, evil; bitter, ſweet,</hi> and <hi>ſweet bitter;</hi> to <hi>juſtifie the wick<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi> &amp; <hi>condemn the juſt,</hi> as the
+<hi>Prophet</hi> complains, <hi>Iſa.</hi> 5.20, 23.</p>
+               <p>As for inſtance, I moſt ſottiſhly thought, that I both <hi>loved,</hi> and <hi>ſerved God</hi> as I ought; yea, I ſhould have taken it in ſoul ſcorn, if any one had queſtioned the ſame: when indeed I was a <hi>Traitor to God, and took up arms againſt all that worſhipped him in Spirit and in truth.</hi> I was ſo far from <hi>loving</hi> and
+<hi>ſerving</hi> him, that I hated thoſe that did it; and that for their ſo doing; I could alſo hear him <hi>blaſphemed, reproached,</hi> and <hi>diſhonoured,</hi> without being once ſtirred, or moved at it. I loved him dearly; but I could never affoard to ſpeak a word for him; and likewiſe his Children intirely, but inſtead of juſtifiing them, or ſpeaking in their defence, when I heard them <hi>ſcoft, ſcorned</hi> and <hi>abuſed</hi> by wicked and ungodly men; all my delight was to <hi>jeer</hi> at <hi>ſlight</hi> and <hi>ſlander</hi> them where ever I came: I more <hi>feared the Magiſtrate,</hi> than I <hi>feared God;</hi> and more regarded the <hi>blaſts of mens breath,</hi> than the <hi>fire of Gods wrath.</hi> I choſe rather to
+<hi>diſobey God,</hi> than to <hi>diſpleaſe great ones;</hi> and feared more the <hi>worlds ſcorns,</hi> then <hi>his anger.</hi>
+               </p>
+               <p>And the like of <hi>Chriſt</hi> that died for me; a ſtrong argument that I <hi>loved Chriſt,</hi> when I <hi>hated</hi> all that reſembled him in <hi>holineſſe.</hi> Yea, I ſo <hi>hated holineſſe,</hi> that I moſt bitterly <hi>hated men for being holy:</hi> inſomuch that my <hi>blood</hi> would <hi>riſe</hi> at the ſight of a <hi>good man,</hi> as ſome ſtomachs will riſe an the ſight of <hi>ſweet-meats.</hi> I was a <hi>Chriſtian in name,</hi> but I could ſcoff at a <hi>Chriſtian indeed;</hi> I could honour the <hi>dead Saints</hi> in a formal profeſſion; while I worried the <hi>living Saints</hi> in a cruel
+<hi>perſecution.</hi> I condemned all for <hi>Roundheads,</hi> that had more Religion than a
+<hi>Heathen,</hi> or knowledg of <hi>heavenly things,</hi> than a <hi>child in the womb</hi> hath of the <hi>things of this life;</hi> or conſcience than an <hi>Atheiſt;</hi> or care of his ſoul, than a <hi>Beaſt.</hi> I had al<g ref="char:EOLhyphen"/>waies the <hi>baſeſt thoughts</hi> of the <hi>beſt men:</hi> making <hi>ill conſtructions</hi> of what<g ref="char:EOLhyphen"/>ſoever they <hi>did</hi> or
+<hi>ſpake:</hi> as the <hi>Scribes</hi> and <hi>Phariſees</hi> dealt by <hi>our Saviour.</hi>
+               </p>
+            </sp>
+         </div>
+         <div n="29" type="section">
+            <head>Sect. XXIX.</head>
+            <sp>
+               <p>As, O what a <hi>poor ſlave</hi> did I hold the man of a <hi>tender conſcience</hi> to be! yea, how did I applaud my ſelf for being <hi>zealleſſe,</hi> and <hi>fearleſſe;</hi> together with my great <hi>diſcretion,</hi> and <hi>moderation:</hi> when I ſaw this man vexed for his <hi>zeal,</hi> that other <hi>hated</hi> for his <hi>knowledg,</hi> a third
+<hi>perſecuted</hi> for the <hi>pro<g ref="char:EOLhyphen"/>feſſion</hi> of his <hi>Faith,</hi> &amp;c. For (being like <hi>Cain, Iſhmael, Eliab; Michel, Pharaoh,</hi> and <hi>Feſtus</hi>) I thought their
+<hi>Religion Puritaniſme,</hi> their <hi>conſcience, of ſinne, hypocriſie;</hi> their
+<hi>profeſſion, diſſimulation;</hi> their <hi>prudence, policy;</hi>
+                  <pb n="4" facs="tcp:41867:3"/>their <hi>faith</hi> and <hi>confidence, preſumption;</hi> their <hi>zeal of Gods glory,</hi> to be <hi>pride</hi> and <hi>malice;</hi> their <hi>obedience to Gods Laws, rebellion to Princes;</hi> their execution of <hi>justice, cruelty,</hi> &amp;c. If they were any thing devout or forward to admoniſh others, that ſo they might <hi>pluck them out of the fire;</hi> I concei<g ref="char:EOLhyphen"/>ved them to be <hi>beſides themſelves:</hi> as <hi>our Saviour</hi> was thought to be by his <hi>Kinsfolk,</hi> and Saint <hi>Paul</hi> by <hi>Feſtus, Mark.</hi> 3.21.
+<hi>John</hi> 10.20. <hi>Acts</hi> 26.24. 1 <hi>Cor.</hi> 1.18. My <hi>religion</hi> was to oppoſe the <hi>power of Religion;</hi> and my <hi>knowledge of the truth,</hi> to know how to
+<hi>argue againſt the truth.</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> never affected <hi>Chriſts Ambaſſadours,</hi> that preached the <hi>glad tydings of ſalvation,</hi> but had a ſpleen againſt them; yea, I hated a <hi>Miniſter,</hi> for being a <hi>Mini<g ref="char:EOLhyphen"/>ſter;</hi> eſpecially, if a <hi>godly</hi> and <hi>zealous</hi> one, that ſpake home to my <hi>con<g ref="char:EOLhyphen"/>ſcience,</hi> and told me of my <hi>ſins;</hi> much more if he would not admit me to the <hi>Lords Table</hi> without <hi>trial</hi> and <hi>examination:</hi> yea, then like <hi>Ahab</hi> to <hi>Mi<g ref="char:EOLhyphen"/>cah,</hi> I became his <hi>enemy,</hi> and <hi>hated him</hi> ever after; would <hi>impeach his credit,</hi> and <hi>detain from him his dues.</hi> And are not all theſe ſtrong eviden<g ref="char:EOLhyphen"/>ces, that I <hi>loved</hi> and <hi>ſerved God,</hi> and <hi>my Redeemer</hi> as I ought? But to make it more manifeſt, what a rare <hi>Chriſtian</hi> I was:</p>
+               <p>I thought my ſelf a <hi>Believer;</hi> yea, I could boaſt of a <hi>ſtrong faith,</hi> when yet I fell ſhort of the very <hi>Devils</hi> in believing: for they <hi>believe</hi> the threats and judgments contained in the Word, <hi>and tremble</hi> thereat, <hi>James</hi> 2.19. Whereas I thought them but <hi>ſcar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>crows</hi> to fright the ſimple withall: yea, I held <hi>Hell</hi> it ſelf but a <hi>fancy,</hi> not worth the
+<hi>fearing.</hi>
+               </p>
+               <p>Becauſe I was not <hi>notoriouſly wicked,</hi> but had a <hi>form of godlineſſe,</hi> was <hi>civil,</hi> &amp;c. I was able to delude my own ſoul, and put off all reproofs and threatenings; by comparing my ſelf with thoſe, that I preſumed were worſe than my ſelf: as, <hi>Drunkards, Adulterers, Blaſphemers, Oppreſſors, ſhed<g ref="char:EOLhyphen"/>ders of blood,</hi> and the like; counting none wicked but ſuch. Yea, looking upon theſe, I admired my own holineſs; and thought my <hi>moral honeſty,</hi> would be ſufficient to ſave me. Nor did I know wherein I had offended.</p>
+               <p>And whereas the <hi>Law</hi> is <hi>ſpiritual,</hi> and binds the <hi>heart</hi> from
+<hi>affecting,</hi> no leſſe than the <hi>hand</hi> from <hi>acting:</hi> I was ſo blind and ignorant, that I thought the Commandement was not broken, if the outward groſs ſin be
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orborn. Whence theſe were my thoughts, I never brake the <hi>firſt Com<g ref="char:EOLhyphen"/>mandement,</hi> of having <hi>many gods:</hi> for I was no
+<hi>Papiſt,</hi> nor <hi>Idolater:</hi> nor the <hi>ſecond,</hi> for I worſhipped God aright: nor the <hi>third,</hi> for I had been no common ſwearer, only a few petty oaths: nor the
+<hi>fourth,</hi> for I had every <hi>Sabbath</hi> gone duly to <hi>Church:</hi> not the
+<hi>fifth,</hi> for I ever honoured my <hi>Parents,</hi> and have been a <hi>loyal ſubject:</hi> not the <hi>ſixth, ſeventh, eighth, ninth,</hi> or <hi>tenth,</hi> for I never committed
+<hi>murther,</hi> or <hi>adultery,</hi> never <hi>ſtale</hi> ought, never <hi>bare falſe witneſs;</hi> nor could I call to mind, that I had at any time <hi>coveted</hi> my <hi>neighbours wife, ſervant; eſtate,</hi> &amp;c. And nothing more common with me, than to brag of <hi>good heart</hi> and <hi>meaning,</hi> of the ſtrength of my <hi>faith</hi> and <hi>hope,</hi> of my
+<hi>juſt</hi> and <hi>upright dealing,</hi> &amp;c. And becauſe I abſtained from no<g ref="char:EOLhyphen"/>torious ſins, I thought my ſelf an excellent Chriſtian; if <hi>God</hi> was not beholding to me for not wounding his name with oaths, for not drinking and playing out his <hi>Sabbaths,</hi> for not railing on his <hi>Miniſters,</hi> for not <hi>oppreſſing</hi> and <hi>perſecuting</hi> his poor <hi>Members,</hi> &amp;c.</p>
+            </sp>
+         </div>
+         <div n="30" type="section">
+            <pb n="5" facs="tcp:41867:3"/>
+            <head>Sect. XXX.</head>
+            <sp>
+               <p>And yet had it been ſo, as I imagined; admit I had never offended in the leaſt all my life; either in thought, word, or deed: yet this were but one half of what I owe to <hi>God;</hi> this were but to obſerve the <hi>negative part</hi> of his <hi>law;</hi> ſtill the <hi>affirmative part</hi> thereof I had been ſo far from perform<g ref="char:EOLhyphen"/>ing, that I had not ſo much as thought of it. And to be juſt in the ſight of <hi>God,</hi> and graciouſly accepted of him, theſe two things are required: the <hi>ſatisfactory part to eſcape Hell,</hi> and the <hi>meritorious part to get Heaven.</hi> And the true method of grace is, <hi>Ceaſe to do evil, Learn to do well,</hi> Iſa. 1.16, 17. The <hi>Fig-tree</hi> was <hi>curſed,</hi> not for bearing <hi>evil fruit;</hi> but becauſe it bare <hi>no good.</hi> The <hi>evil ſervant</hi> was not <hi>bound hand and foot, and caſt into priſon,</hi> for <hi>waſting</hi> his <hi>Maſters goods;</hi> but for <hi>not gaining</hi> with them. And thoſe <hi>Reprobates</hi> at the laſt day, ſhall be bid <hi>depart into everlaſting fire;</hi> not for <hi>wronging</hi> or <hi>robbing</hi> of any, but for <hi>not giving,</hi> for <hi>not com<g ref="char:EOLhyphen"/>forting Chriſts poor Members,</hi> Mat. 25. So that my caſe was moſt deſpe<g ref="char:EOLhyphen"/>rate. For though, with that <hi>Phariſee,</hi> Luk. 18.11. I was apt to thank <hi>God,</hi> and brag; that I was <hi>juſt, and paid every man his due:</hi> yet I never thought of being <hi>holy,</hi> and of <hi>paying God his dues;</hi> as his due of
+<hi>believing,</hi> or <hi>repenting,</hi> of new <hi>obedience,</hi> his due of <hi>praying, hearing, conferring, me<g ref="char:EOLhyphen"/>ditating</hi> on his <hi>word and works, ſanct<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ing</hi> his <hi>Sabbaths,</hi> and <hi>inſtructing</hi> my
+<hi>Children and Servants;</hi> teaching them to fear the <hi>Lord.</hi> His due of <hi>Love, Fear, Thankefulneſſe, Zeal</hi> for his <hi>Glory,</hi> charity and <hi>mercy</hi> to <hi>Christs poor Members,</hi> and the like.</p>
+               <p>I ſhould have ſerved <hi>God</hi> in <hi>ſpirit,</hi> and according to <hi>Christs Goſpel:</hi> as all that are <hi>wiſe hearted</hi> do <hi>live,</hi> and <hi>believe,</hi> and
+<hi>hear,</hi> and <hi>invocate,</hi> and <hi>hope,</hi> and <hi>fear,</hi> and <hi>love,</hi> and
+<hi>worſhip God</hi> in ſuch manner, as his <hi>word</hi> preſcribes. I ſhould have been effectually <hi>called,</hi> and become <hi>a new Crea<g ref="char:EOLhyphen"/>ture</hi> by <hi>regeneration;</hi> being
+<hi>begotten</hi> and <hi>born</hi> anew, by the immortal <hi>ſeed of the Word.</hi> I ſhould have found an apparant <hi>change</hi> wrought in my <hi>judg<g ref="char:EOLhyphen"/>ment, affections,</hi> and actions, to what they were formerly. The <hi>Old man</hi> ſhould have changed with the <hi>New man, worldly wiſdome</hi> with <hi>Heavenly wiſdome, carnal love for ſpiritual love, ſervile fear</hi> for <hi>Chriſtian</hi> and <hi>filial fear, idle thoughts</hi> for <hi>holy thoughts, vain words</hi> for <hi>holy</hi> and <hi>wholeſome words, fleſhly works</hi> for <hi>works of righteouſneſſe:</hi> even <hi>hating</hi> what I former<g ref="char:EOLhyphen"/>ly <hi>loved,</hi> and
+<hi>loving</hi> what I formerly <hi>hated.</hi>
+               </p>
+               <p>But alas! I have heard the <hi>Goſpel</hi> day after day, and year after year: which is
+<hi>the ſtrong arm of the Lord,</hi> and the <hi>mighty power of God to ſalvati<g ref="char:EOLhyphen"/>on;</hi> That is <hi>quick, and powerfull, and ſharper than any two-edged-ſword;</hi> and yet ſtood it out and reſiſted, Inſtead of ſubmitting to <hi>Chriſts call;</hi> even <hi>refuſing the free offer of grace and ſalvation.</hi> I have <hi>heard</hi> the word faithful<g ref="char:EOLhyphen"/>ly and powerfully preached, for <hi>forty years:</hi> yet remain'd in my natural condition unregenerate: without which new birth, there is no being ſa<g ref="char:EOLhyphen"/>ved, as <hi>our Saviour</hi> affirms, <hi>Joh.</hi> 3.5. I had not troden one ſtep in the way to converſion: for the <hi>firſt part of converſion, is to love them that love God,</hi> 1 Joh. 3.10, 11, 14. I ſhould daily have <hi>grown in grace, and in the know<g ref="char:EOLhyphen"/>ledge of our Lord and Saviour Jeſus Chriſt:</hi> but I was ſo far from growing in grace, that I had not one ſpark of <hi>grace</hi> or <hi>holineſſe; without which no
+<pb n="6" facs="tcp:41867:4"/>man ſhall ſee the Lord,</hi> Heb. 12 14. I was all for obſerving the
+<hi>ſecond Ta<g ref="char:EOLhyphen"/>ble,</hi> without reſpect to the firſt: or all for <hi>outward conformity,</hi> not at all for ſpiritual and <hi>inward holineſſe of the heart.</hi>
+               </p>
+            </sp>
+         </div>
+         <div n="31" type="section">
+            <head>Sect. XXXI.</head>
+            <sp>
+               <p>Either what I did was not morally <hi>good for the matter,</hi> or not <hi>well</hi> done
+<hi>for the manner;</hi> nor to any <hi>right ends:</hi> as out of <hi>duty</hi> and
+<hi>thankfulneſſe</hi> to <hi>God, and my Redeemer;</hi> and out of <hi>love</hi> to my
+<hi>fellow members.</hi> Without which the moſt glorious performances, and rareſt virtues, are but <hi>ſhining ſins,</hi> or <hi>beautifull abominations. Gods Glory</hi> was not my principal
+<hi>end,</hi> nor to <hi>be ſaved</hi> my <hi>greateſt care.</hi>
+               </p>
+               <p>I was a <hi>good, civil, moral, honeſt hypocrite, or Infidel: but none of theſe graces, grew in the Garden of my heart.</hi> I did not <hi>ſhine out as a light, by a holy converſation to glorifie God, and win others.</hi> Now only to <hi>refrain evil,</hi> except a man <hi>hates it alſo,</hi> and <hi>does</hi> the contrary <hi>good;</hi> is to <hi>be evil</hi> ſtill: becauſe <hi>honeſty</hi> without <hi>piety,</hi> is but a <hi>body</hi> without a
+<hi>ſoul.</hi>
+               </p>
+               <p>All my <hi>Religion</hi> was either <hi>ſuperſtition,</hi> or <hi>formality,</hi> or
+<hi>hypocriſie.</hi> I had a <hi>form of godlineſſe, but denied the power thereof: I often drew near unto God with my mouth, and honoured him with my lips: but my heart was far from him,</hi> Iſa. 29.13. Mark. 7.2. to 14. Matth. 15.7. to 10. All which conſidered, <hi>viz.</hi> the <hi>means</hi> which <hi>God</hi> had afforded me, and the little uſe I had made thereof, left me in a far worſe condition, than the very <hi>heathen,</hi> that never heard of
+<hi>Chriſt.</hi> So that it was <hi>Gods</hi> unſpeakable mercy, that I am not at this preſent <hi>frying in Hell flames, never to be freed.</hi>
+               </p>
+               <p>
+                  <hi>God</hi> hath ſent unto us all <hi>his Servants the Prophets, riſing up early, and they have been inſtant in Preaching the Goſpel, both in ſeaſon, and out of ſeaſon:</hi> but my carnal <hi>heart</hi> hath ever been <hi>flint unto God, wax to Satan: you ſhall dye,</hi> if you continue in the practice of ſin, I <hi>heard:</hi> but <hi>you ſhall not dye,</hi> as ſaith the <hi>Devil,</hi> I <hi>believed.</hi>
+               </p>
+            </sp>
+         </div>
+         <div n="32" type="section">
+            <head>Sect. XXXII.</head>
+            <sp>
+               <p>Beſides all this, ſuppoſe I had none of theſe to anſwer for; neither <hi>ſins of Commiſſion,</hi> nor <hi>ſins of Omiſſion:</hi> yet <hi>Original ſin</hi> were enough to damn me, no need of any more; and yet my <hi>actual tranſgreſſions</hi> have been ſuch, and <hi>ſo many,</hi> and my <hi>ingratitude</hi> therein <hi>ſo great;</hi> that it might have ſunk me down with ſhame, and left me hopeleſſe of ever obtaining pardon for them. As ſee but ſome ſmall <hi>part of my monſtrous,</hi> and <hi>deviliſh ingra<g ref="char:EOLhyphen"/>titude to ſo good a God, ſo loving and mercifull a Saviour and Redeemer;</hi> that hath <hi>done,</hi> and
+<hi>ſuffer'd</hi> ſo much for me, even more than can either be <hi>ex<g ref="char:EOLhyphen"/>preſſed</hi> or
+<hi>conceived,</hi> by any <hi>heart</hi> were it as deep as the <hi>Sea!</hi>
+               </p>
+               <p>Touching what <hi>God</hi> and <hi>Chriſt</hi> hath done for me, in the firſt place he gave me my <hi>ſelf,</hi> and all the <hi>creatures</hi> to ſerve for my uſe; yea he
+<hi>created</hi> me <hi>after his own Image, in righteouſneſſe, and holineſſe,</hi> and in perfect <hi>know<g ref="char:EOLhyphen"/>ledg of the truth,</hi> with a power to ſtand, and for ever to continue in a moſt bleſſed, and happy condition. But this was nothing in compariſon; for when I was in a ſad condition, when I had <hi>forfeited all</hi> this and <hi>my ſelf;</hi> when by ſin I had turned that <hi>Image of God</hi> into the <hi>Image of Satan,</hi> and wilfully plunged my
+<hi>ſoul</hi> and <hi>body</hi> into eternal torments: when I was
+<pb n="7" facs="tcp:41867:4"/>become his <hi>enemy,</hi> mortally <hi>hating</hi> him, and to my utmoſt
+<hi>fighting</hi> againſt him, and taking part with his only enemies <hi>ſin and Satan;</hi> not having the leaſt thought or deſire of reconcilement, but a perverſe and obſtinate will, to reſiſt all means tending thereunto: he did redeem me, not only without aſking, but even againſt my will; ſo making of me his curſed <hi>e<g ref="char:EOLhyphen"/>nemy,</hi> a <hi>Servant,</hi> of a
+<hi>Servant a Son,</hi> of a <hi>Son an Heir,</hi> and <hi>Co-heir with Chriſt,</hi> Gal. 4.7. But how have <hi>I requited</hi> this ſo great, <hi>ſo ſuperlative a mercy?</hi> All my recompence of <hi>Gods love</hi> unto me, hath been to do that which he <hi>hates,</hi> and to
+<hi>hate</hi> thoſe whom he <hi>loves.</hi>
+               </p>
+               <p>
+                  <hi>Chriſt</hi> the fountain of all good is my <hi>Lord,</hi> by a <hi>manifold right,</hi> and <hi>I</hi> his <hi>ſervant by all manner of obligations.</hi> Firſt, He is my Lord by the right of <hi>Creation,</hi> as being his workmanſhip <hi>made</hi> by him. Secondly, By the right of <hi>Redemption,</hi> being his purchaſe <hi>bought</hi> by him. Thirdly, Of
+<hi>pre<g ref="char:EOLhyphen"/>ſervation,</hi> being kept, upheld, and maintained by him. Fourthly, His by
+<hi>Vocation,</hi> even of his <hi>family;</hi> having admitted me a <hi>member of his viſible Church.</hi> Fifthly, His alſo (had it not been my own fault) by <hi>ſancti<g ref="char:EOLhyphen"/>cation,</hi> whereby to poſſeſſe me. Laſtly, He would have me of his <hi>Court</hi> by
+<hi>glorification,</hi> that he might <hi>crown</hi> me; ſo that <hi>I</hi> was every way his.
+<hi>God</hi> had raiſed me from a <hi>beggar to a great eſtate:</hi> but how did <hi>I</hi> requite him? I would not if poſſible, ſuffer a godly and <hi>conſcientious Miniſter</hi> to be <hi>choſen,</hi> or to abide where I had to do; but to bring in one that would <hi>flatter ſin,</hi> and <hi>flout holineſs; diſcourage the godly,</hi> and <hi>incourage the wicked,</hi> I uſed both <hi>my own,</hi> and all <hi>my friends</hi> utmoſt ability. Much more might be mentioned, but I fear to be tedious.</p>
+               <p>Now argue with <hi>all the world,</hi> and they will <hi>conclude,</hi> that there is <hi>no vice like ingratitude.</hi> But I have been more ingratefull to <hi>God,</hi> than can be expreſt by the <hi>beſt Oratour alive.</hi> It was horrible ingratitude in the <hi>Jews</hi> to ſcourge and crucifie <hi>Chriſt,</hi> who did them good every way; for he <hi>healed their diſeaſes, fed their bodies, inlightened their minds, of God be<g ref="char:EOLhyphen"/>came man,</hi> and lived miſerably amongſt them many years, that he might <hi>ſave their ſouls:</hi> but they fell ſhort of my ingratitude to <hi>God,</hi> in that moſt of them were not in the leaſt convinc'd, that he was the <hi>Meſſias ſent</hi> from <hi>God,</hi> and promiſed from the beginning. But I have not only denied this <hi>Lord</hi> that bought me, but I hated him; yea, moſt ſpitefully and ma<g ref="char:EOLhyphen"/>liciouſly fought on <hi>Satans,</hi> and <hi>ſins</hi> ſide againſt him; and perſecuted his children, and the truth with all my might: and all this againſt
+<hi>knowledge,</hi> and <hi>conſcience,</hi> after ſome meaſure of <hi>illumination,</hi> which cannot be af<g ref="char:EOLhyphen"/>firmed of the <hi>Jews.</hi> Yet miſerable wretch that I was, if I could have given him my body and ſoul, they ſhould have been ſaved by it, but he were never the better for them.</p>
+            </sp>
+         </div>
+         <div n="33" type="section">
+            <head>Sect. XXXIII.</head>
+            <sp>
+               <p>Laſtly, To tell you that which is more ſtrange! Notwithſtanding all this that hath been mentioned, and much more: Yet I thought my ſelf a <hi>good Chriſtian forſooth;</hi> yea, with that <hi>young man in the Goſpel,</hi> I thought I <hi>had kept all the Commandements.</hi> Nor was I a whit troubled for <hi>ſin,</hi> either <hi>origi<g ref="char:EOLhyphen"/>nal,</hi> or <hi>actual:</hi> but my
+<hi>conſcience</hi> was at <hi>quiet,</hi> and I was at <hi>peace,</hi> neither did any ſin trouble me. Yea, I would applaud my ſelf with that <hi>Phariſee,
+<pb n="8" facs="tcp:41867:5"/>Luke</hi> 18.9, to 15. and ſay, <hi>I was not like other men:</hi> not once doubting of my ſalvation. I ever <hi>refuſed to do what my Maker commanded,</hi> and yet
+<hi>confidently hoped to eſcape what he threatned.</hi> Nor did I doubt of having <hi>Chriſt my Redeemer</hi> and <hi>Advocate in the next life,</hi> when I had been a <hi>bitter enemy to him and his members in this life.</hi> Here was blindneſſe with a wit<g ref="char:EOLhyphen"/>neſſe; as it is not to be believed how blind and <hi>blackiſh</hi> men are, that have only the <hi>fleſh for their guide;</hi> eſpecially if they have <hi>hardned</hi> their <hi>hearts,</hi> and <hi>ſeared</hi> their <hi>conſciences</hi> with a <hi>cuſtomary ſinning.</hi> As I could give you for inſtance, a large <hi>catalogue</hi> of rare <hi>examples,</hi> how <hi>ſin</hi> hath
+<hi>beſotted</hi> men: and what <hi>ſtarkfools carnal men</hi> are in <hi>ſpirital things;</hi> be they never ſo wiſe for mundane knowledg. But leaſt it ſhould be taken for a digreſ<g ref="char:EOLhyphen"/>ſion or excurſion, you ſhall have a liſt of them by themſelves, the which I will add as an <hi>Appendix to this Diſcourſe,</hi> or Dialogue. In the mean time I have given you a brief of my manifold provocations, and great ingrati<g ref="char:EOLhyphen"/>tude to my <hi>Maker</hi> and
+<hi>Redeemer</hi> (for otherwiſe <hi>I</hi> might be endleſſe in the proſecution thereof.) It remains that <hi>I</hi> ſhould in like manner lay open my <hi>original defilement;</hi> which is the <hi>fountain</hi> whence all the former (whe<g ref="char:EOLhyphen"/>ther ſins of <hi>commiſſion,</hi> or ſins of <hi>omiſſion</hi>) do <hi>flow.</hi> But touching it be pleaſed to peruſe that ſmall Tract, intituled, <hi>A ſhort and ſure way to Grace and Salvation:</hi> Or, <hi>Three Fundamental Principles</hi> of <hi>Chriſtian Religion,</hi> by <hi>R. Y.</hi> from page 4. to page 10.</p>
+            </sp>
+         </div>
+         <div n="34" type="section">
+            <head>Sect. XXXIV.</head>
+            <sp>
+               <speaker>Looſe Libertine.</speaker>
+               <p> If this hath been your caſe, no wonder it hath ſtartled you; for to deal plainly with you, as you have done with me; what <hi>I</hi> have heard from you, makes me alſo tremble. For if ſuch <hi>honeſt moral men,</hi> that live ſo <hi>unreprovably,</hi> as you had done, go not to <hi>heaven;</hi> what will become of me? that have been <hi>openly Prophane,</hi> and
+<hi>notoriouſly wicked</hi> all my time? Yea, it contented me not to do wickedly my ſelf, and ſo damne my own ſoul: but I have been the occaſion of drawing hundreds to Hell with me, by ſeducing ſome, and giving ill example to others, (the <hi>infection of ſin,</hi> being much
+<hi>worſe than the act.</hi>) As how many have <hi>I</hi> drawn to be <hi>Drun<g ref="char:EOLhyphen"/>kards,</hi> and
+<hi>ſwearers,</hi> and <hi>whoremongers,</hi> and <hi>prophane perſons?</hi> inſomuch, that the blood of ſo many ſouls as <hi>I</hi> have drawn away, will be required at my hands. Yea, my life hath been ſo debauched and licentious, that <hi>I</hi> have brought <hi>a ſcandal upon the Goſpel,</hi> and made it odious to the very <hi>Turks</hi> and <hi>Infidels,</hi> Rom. 2.24.</p>
+            </sp>
+            <sp>
+               <speaker>Convert.</speaker>
+               <p> Alaſs! what <hi>I did</hi> that was morally <hi>good,</hi> or what <hi>evil I refrained,</hi> was more for ſelf-ends, or more for <hi>fear of mens Laws,</hi> than for <hi>love of Chriſts Goſpel.</hi> True, <hi>I</hi> went under the notion of <hi>an honeſt man,</hi> and <hi>a good Chriſtian: I</hi> was <hi>baptized</hi> into the faith, and made <hi>a member of Chriſts vi<g ref="char:EOLhyphen"/>viſible Church:</hi> but <hi>I</hi> was ſo far from indeavouring to <hi>perform,</hi> what
+<hi>I</hi> then <hi>promiſed,</hi> that in effect <hi>I</hi> even <hi>renounced</hi> both
+<hi>Chriſt,</hi> and my <hi>Baptiſm,</hi> in perſecuting him, and all that ſincerely profeſſed his Name; <hi>thinking I did God good ſervice</hi> therein, <hi>Joh.</hi> 16.2.
+<hi>Gal.</hi> 1.13, 14. <hi>Phil.</hi> 3.6. Nor was it for want of ignorance, that you thought ſo of me: for <hi>by nature</hi> (be we never ſo milde and gentle) we are all the <hi>ſeed of the Serpent, Gen.</hi> 3.15. and <hi>children of the Devil, Joh.</hi> 8.44. Yea, the very beſt
+<hi>moral man</hi> is but
+<pb n="9" facs="tcp:41867:5"/>a <hi>tame Devil,</hi> as <hi>Athanaſius</hi> well notes. But it is a true proverb, the <hi>blind eat many a flie; and all colours are alike to him that is in the dark.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Looſe Libertine.</speaker>
+               <p> So much the worſe is my condition: for my conſcience tells me, there is not a word you have ſpoken of your ſelf, but <hi>I</hi> can juſtly apply the ſame unto my own ſoul, and a great deal more. For whereas you have been a <hi>moral honeſt man;</hi> ſo that none except your ſelf, could tax you for breaking either <hi>Gods Law, or mans: I</hi> have been ſo
+<hi>wicked</hi> and <hi>prophane,</hi> that <hi>I</hi> could moſt preſumptuoſly, and of ſet purpoſe, <hi>take a pride in my wickedneſſe, commit it with greedineſſe, ſpeak for it, defend it, joy in it, boaſt of it, tempt and inforce to it; yea, mock them that diſliked it.</hi> As if <hi>I</hi> would ſend challenges into Heaven, and make love to deſtruction; and yet did applaud my ſelf, and prefer my own condition before other mens: ſaying, <hi>I</hi> was no diſſembler; yea, <hi>I</hi> hated the hypocriſie of <hi>Pro<g ref="char:EOLhyphen"/>feſſors: I</hi> do not juſtifie my ſelf, and deſpiſe others, like the <hi>Puritanes: I</hi> am not factious, ſchiſmatical, ſingular, cenſorious, <hi>&amp;c. I</hi> am not rebellious, nor contentious like the <hi>Browniſts,</hi> and <hi>Anabaptiſts. I am a good fellow,</hi> and <hi>love an honeſt man with my heart, &amp;c.</hi> and as touching a good <hi>conſcience, I</hi> was never
+<hi>troubled in mind,</hi> as many ſcrupulous fools are. <hi>I</hi> have a <hi>good heart, and mean as well</hi> as the preciſeſt. Bur now <hi>I</hi> ſee <hi>the Devil and my own deceitfull heart deluded me</hi> ſo, that my <hi>whole life</hi> hither to, hath been but <hi>a dream,</hi> and that like a <hi>blind man, I was running head long to Hell,</hi> when yet <hi>I thought my ſelf in the way to Heaven.</hi> Juſt as if a <hi>beggar</hi> ſhould
+<hi>dream,</hi> that <hi>he were a King,</hi> or as if <hi>a traitor</hi> ſhould <hi>dream</hi> of his <hi>being crown<g ref="char:EOLhyphen"/>ed,</hi> when indeed he was <hi>to be beheaded;</hi> the caſe of
+<hi>Laodicea,</hi> Rev. 3.17. the <hi>young man in the Goſpel,</hi> Luk. 18.20, 21. and that
+<hi>Phariſee,</hi> ſpoken of <hi>Luk.</hi> 18.11, 12.</p>
+            </sp>
+         </div>
+         <div n="35" type="section">
+            <head>Sect. XXXV.</head>
+            <sp>
+               <speaker>Convert.</speaker>
+               <p> It was not your caſe alone, but ſo it fares with the worſt of ſinners: Only it much rejoyces me, that it hath pleaſed <hi>God</hi> to open your eyes, to ſee all this in your ſelf. For <hi>fleſh and blood hath not revealed it un<g ref="char:EOLhyphen"/>to you.</hi> Yea we are <hi>naturally ſo blind, and deaf, and dead in ſin and in ſoul:</hi> that we can no more diſcern our
+<hi>ſpiritual filthineſſe,</hi> nor <hi>feel ſin</hi> to be a <hi>burden,</hi> than a blind
+<hi>Aethiopian</hi> can <hi>ſee his own blackneſſe,</hi> or than a <hi>dead-man can feel the weight of a burthen,</hi> when it is laid upon him, <hi>Act.</hi> 28.27. <hi>Iſa.</hi> 6.9,
+10,</p>
+               <p>And this common <hi>experience ſhews;</hi> for if you obſerve it, who more <hi>jocond, confident and ſecure,</hi> than the worſt of <hi>ſinners;</hi> they can ſtrut it under
+<hi>an unſupportable Maſs of oaths, blaſphemies, thefts, murthers, adulteries, drunk<g ref="char:EOLhyphen"/>enneſs</hi> and other the like ſins; yea can eaſily <hi>ſwallow theſe ſpiders with Mi<g ref="char:EOLhyphen"/>thridates, and digeſt</hi> them too: when one that is regenerate, <hi>ſhrinkes under</hi> the <hi>burden</hi> of <hi>wandring thoughts,</hi> and <hi>want of proficiency.</hi> But why is it? they are <hi>dead in ſin,</hi> Epheſ. 2.1. Revel. 3.1. <hi>Now lay a mountain upon a dead-man, he feels</hi> not once the <hi>weight.</hi>
+               </p>
+               <p>To a <hi>Chriſtian</hi> that hath the <hi>life of grace, the leaſt ſin lyes heavy</hi> upon the conſcience: but to him that is dead, let his ſins be <hi>as heavy as a mountain of lead;</hi> he ſeels in them no weight at all.</p>
+               <p>Again, They are inſenſible of their ſin and danger, becauſe ignorant
+<pb n="10" facs="tcp:41867:6"/>for <hi>what the eye ſeeth not, the heart rueth not.</hi> Security makes worldlings merry, and therefore are they ſecure, becauſe they are ignorant. A dunce we know,
+<hi>ſeldome</hi> makes <hi>doubts:</hi> yea a <hi>fool,</hi> ſaies <hi>Solomon, boaſteth and is confident,</hi> Prov. 14.16. neither do <hi>blind men ever bluſh.</hi> And the truth is, were it not for <hi>pride</hi> and <hi>ignorance,</hi> a world of men would be aſhamed to have their faces ſeen abroad. For take away from mens minds <hi>vain o<g ref="char:EOLhyphen"/>pinions, flattering hopes, falſe valuations, imaginations,</hi> and the like; you will leave the minds of moſt men and women, but
+<hi>poor ſhrunken things; full of melancholy, indiſpoſition,</hi> and <hi>unpleaſing to themſelves. Ignorance is a veil or curtain to hide away</hi> their ſins: whereupon they are never trou<g ref="char:EOLhyphen"/>bled in <hi>conſcience,</hi> nor macerated with <hi>cares</hi> about
+<hi>eternity;</hi> but think that all will be well.</p>
+               <p>The <hi>Devil</hi> and the <hi>fleſh,</hi> propheſie proſperity to ſin, yea <hi>life and ſalva<g ref="char:EOLhyphen"/>tion,</hi> as the <hi>Pope</hi> promiſed the <hi>powder-traitors:</hi> but <hi>death and damnation</hi> (which <hi>Gods Spirit</hi> threatens) will prove the <hi>crop</hi> they will
+<hi>reap.</hi> For <hi>God it true, the Devil and all fleſh are lyers.</hi>
+               </p>
+               <p>When we become regenerate, and forſake ſin, then the <hi>Devil</hi> ſtrongly and ſtrangely aſſaults us: as he did <hi>Chriſt,</hi> when he was newly <hi>baptized;</hi> and
+<hi>Pharaoh the children of Iſrael,</hi> when they would forſake <hi>Aegypt;</hi> and <hi>Herod the children,</hi> when <hi>Chriſt</hi> was come to deliver his people. Whence, commonly it comes to paſſe, that thoſe <hi>think beſt of themſelves, that
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave leaſt cauſe;</hi> yea the <hi>true Chriſtian,</hi> is as <hi>fearfull to entertain</hi> a good opini<g ref="char:EOLhyphen"/>on of himſelf, as <hi>the falſe is unwilling, to be driven from it.</hi> They that have <hi>ſtore of grace, mourn for the want</hi> of it: and they that indeed <hi>Want it, chant their abundance.</hi> None ſo apt to
+<hi>doubt</hi> their adoption, as they that may be <hi>aſſured</hi> of it: nor none more uſually <hi>fear,</hi> then they that have the greateſt <hi>cauſe to hope.</hi> We feel
+<hi>corruption</hi> not by corruption, but by <hi>grace:</hi> and therefore <hi>the more we feel</hi> our inward <hi>corruptions; the more grace</hi> we have.</p>
+               <p>Contraries, the nearer they are to one another, the ſharper is the con<g ref="char:EOLhyphen"/>flict betwixt them: now of all enemies, the <hi>ſpirit</hi> and <hi>fleſh</hi> are neareſt one to another, being both in the <hi>ſoul</hi> of a regenerate man; and in all <hi>faculties</hi> of the ſoul, and in every <hi>action</hi> that ſpringeth from thoſe <hi>facul<g ref="char:EOLhyphen"/>ties.</hi> The more grace, the more ſpiritual life; and the more ſpiritual life, the more antipathy to the contrary: whence none are ſo <hi>ſenſible of corruption,</hi> as thoſe that have the <hi>moſt living ſouls.</hi>
+               </p>
+            </sp>
+         </div>
+         <div n="36" type="section">
+            <head>Sect. XXXVI.</head>
+            <sp>
+               <p>Now for <hi>remedy</hi> of the contrary, there cannot be a better <hi>leſſon</hi> for car<g ref="char:EOLhyphen"/>nal men to learn than this. All the <hi>Promiſes of God</hi> are <hi>conditional,</hi> to take place if we <hi>repent:</hi> as all the <hi>threatenings of God</hi> are <hi>conditional,</hi> to take place if we <hi>repent not.</hi> But wicked men, as they <hi>believe without repenting;</hi> their <hi>faith</hi> being meer <hi>preſumption:</hi> ſo they <hi>repent without believing,</hi> their repentance being indeed <hi>deſperation:</hi> and this obſerve, we are <hi>caſt down</hi> in the diſappointing of our hopes; <hi>in the ſame meaſure,</hi> as we were too much <hi>lifted up,</hi> in expectation of good from them. Whence theſe per<g ref="char:EOLhyphen"/>remptory preſumers if ever they repent, it is commonly <hi>as Francis Spira,</hi> an
+<hi>Advocate of Padua</hi> did: and never did any man plead ſo well <hi>for him<g ref="char:EOLhyphen"/>ſelf,</hi> as he did <hi>againſt himſelf.</hi>
+               </p>
+               <pb n="11" facs="tcp:41867:6"/>
+               <p>One <hi>ſtar</hi> is much <hi>bigger than the Earth;</hi> yet ſeems many degrees
+<hi>leſſe.</hi> It is the nature of <hi>fear,</hi> to make <hi>dangers greater, helps leſſe</hi> then they are <hi>Chriſt</hi> hath promiſed peace and reſt unto their ſouls that <hi>labour, and are <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eavy laden;</hi> and to thoſe <hi>that walk according to rule,</hi> Matth. 11.29. Gal.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.16. <hi>even place celeſtial</hi> in the
+<hi>ſtate</hi> of <hi>grace,</hi> and <hi>peace eternal</hi> in the <hi>
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ate of glory.</hi> Such therefore as never were diſtreſſed in conſcience, or live looſly; never had true peace. <hi>Peace</hi> is the <hi>Daughter of Righteouſneſs. Rom.</hi> 5.1. <hi>Being juſtified by faith, we have peace with God.</hi> But he who makes a <hi>bridge of his own ſhadow,</hi> will be ſure to <hi>fall into the water.</hi>
+               </p>
+               <p>
+                  <hi>Thoſe Blocks,</hi> that never in their life were moved with <hi>Gods threatnings,</hi> never in any ſtraight of conſcience, never groaned under the burden of <hi>Gods anger:</hi> they have not ſo much as entered into the <hi>porch of this houſe,</hi> or lift a foot over the
+<hi>threſhold, of this School of repentance.</hi> Oh! that we could but ſo much <hi>fear the eternal paines, as</hi> we do the <hi>temporary;</hi> and be but ſo carefull to ſave <hi>our ſouls</hi> from torment, as <hi>our bodies.</hi> In the mean time, the caſe of theſe men is ſo much <hi>the worſe;</hi> by how much <hi>there fear is the leſſe.</hi> It faring with the ſoul, as with the body. Thoſe <hi>diſeaſes,</hi> which do <hi>take away all ſenſe of pain;</hi> are of all others <hi>moſt de<g ref="char:EOLhyphen"/>sperate.</hi> As the <hi>dead Palſey,</hi> the
+<hi>falling-ſickneſſe,</hi> the <hi>ſleepy lethargy,</hi> &amp;c. And the <hi>Patient</hi> is moſt <hi>dangerouſly ſick,</hi> when he hath <hi>no feeling</hi> thereof. In like manner, whilſt they ſuppoſe themſelves to be free from <hi>judgment;</hi> they are already ſmitten with the <hi>heavieſt of Gods judgments;</hi> a heart that cannot repent, <hi>Rom.</hi>
+2.5.</p>
+               <p>In a <hi>lethargy,</hi> it is needfull the <hi>Patient</hi> ſhould be caſt into a
+<hi>burning Fe<g ref="char:EOLhyphen"/>ver;</hi> becauſe the <hi>ſenſes are benummed,</hi> and this will <hi>waken them,</hi> and <hi>dry up</hi> the <hi>beſotting humours.</hi> So in our dead ſecurity, before our converſion; <hi>God</hi> is fain to let the <hi>Law, Sin, Conſcience</hi> and <hi>Satan looſe</hi> upon us; and to <hi>kindle</hi> the very <hi>fire of Hell</hi> in our ſouls: that ſo we might be rouſed out of our ſecurity: but thouſands of theſe blocks, both <hi>live and depart</hi> with as <hi>great hopes,</hi> as men go to a <hi>lottery:</hi> even <hi>dreaming of Heaven, untill</hi> they <hi>awake in Hell.</hi> For they too often die, without any remorſe of con<g ref="char:EOLhyphen"/>ſcience <hi>like blocks;</hi> or <hi>as an Ox dyes in a ditch.</hi> Yea thouſands that
+<hi>live</hi> like <hi>Laban, dye</hi> like <hi>Nabal,</hi> (which is but the ſame word inverted,) whilſt others the dear Children of <hi>God,</hi> dye in diſtreſſe of conſcience. For it is not every good mans hap, to dye like <hi>Antoninus Pius;</hi> whoſe
+<hi>death</hi> was after the faſhion, and ſemblance of a kindly and <hi>pleaſant ſleep.</hi> However <hi>Saint Auſtin</hi>'s <hi>rule,</hi> will be ſure to hold; He
+<hi>cannot dye ill,</hi> that hath lived well: and for the moſt part, He that <hi>lives conſcionably, dyes comfortably,</hi> and departeth rich. And ſo you ſee, how it fares with the wickedeſt and worſt of men. Wherefore if you are truly ſenſible of your wretch<g ref="char:EOLhyphen"/>edneſſe, it is a good ſign, that you are in ſome forwardneſſe to be reco<g ref="char:EOLhyphen"/>vered; and really to become ſo good, as formerly you but dream'd, or imagined your ſelf to be. And indeed the very <hi>firſt ſtep to grace, is to feel the want of grace;</hi> and the next way to
+<hi>receive mercy,</hi> is to <hi>ſee your ſelf miſerable.</hi> Therefore our conſtant, and moſt diligent ſearch ſhould be, to find out the naughtineſſe of our own hearts; and to get ſtrength from <hi>God,</hi> againſt our prevailing corruptions.</p>
+            </sp>
+         </div>
+         <div n="37" type="section">
+            <pb n="12" facs="tcp:41867:7"/>
+            <head>Sect. XXXVII.</head>
+            <sp>
+               <speaker>Looſe Libertine.</speaker>
+               <p>But is there any hope for one ſo wicked as I? who have <hi>turned the grace of God into wantoneſſe;</hi> applying <hi>Chriſts paſſion</hi> as a <hi>war<g ref="char:EOLhyphen"/>rant</hi> for my licenciouſneſſe, not as a <hi>remedy;</hi> and taking <hi>his death at a li<g ref="char:EOLhyphen"/>cence to ſin, his croſs as a Letters pattent to do miſchief.</hi> As if a man ſhould <hi>head his drum of rebellion, with his pardon.</hi> For I have moſt ſpitefully, and maliciouſly, <hi>taken up arms againſt my Maker,</hi> and <hi>fought againſt my Redeemer</hi> all my daies.</p>
+            </sp>
+            <sp>
+               <speaker>Convert.</speaker>
+               <p> Do but unfeignedly <hi>repent you of your ſins, and forſake your for<g ref="char:EOLhyphen"/>mer evil waies, and lay hold upon Chriſt by a true, and lively faith:</hi> my ſoul for yours, <hi>God</hi> is very ready to forgive them, be they never <hi>ſo many,</hi> and innumerable for <hi>multitude;</hi> never to <hi>hainous,</hi> for quality and <hi>magni<g ref="char:EOLhyphen"/>tude.</hi> Yea, I can ſhew yow <hi>your pardon from the great King of Heaven</hi> for all that is paſt: the which you may read at large
+<hi>Iſa.</hi> 55.7. <hi>Ezek.</hi> 18.21. to 29. and 33.11. <hi>Joel</hi> 2.12, 13, 14. Yea read
+1 <hi>Cor.</hi> 6.10, 11, together with the ſtory of <hi>Manaſſes, Mary Magdelen, the Thief, and the Prodigal Son:</hi> and you ſhall ſee <hi>preſidents</hi> thereof. Yea the very
+<hi>murtherers of the Son of God,</hi> upon their ſerious and unfeigned repentance, and ſtedfaſt believing in him; <hi>received pardon and ſalvation.</hi> And indeed
+<hi>deſpair,</hi> is a ſin which <hi>never knew Jeſus.</hi> True, <hi>every ſin deſerves damnation: but no ſin ſhall condemn, but the lying and continuing in it.</hi> True Repentance, is ever bleſt with for<g ref="char:EOLhyphen"/>giveneſs. And know this, that <hi>Gods mercy</hi> is greater than
+<hi>thy ſin,</hi> whatever it be: you cannot be ſo <hi>infinite in ſinning,</hi> as he is
+<hi>infinite in pardoning,</hi> if you repent: yea ſins upon repentance are ſo
+<hi>remitted;</hi> as if they had never been <hi>committed. I will put away thy tranſgreſſions as a cloud, and thy ſins as a miſt,</hi> Iſa. 44.22. And <hi>what by corruption hath been done, by repentance is undone.</hi> As the former examples witneſſe.
+<hi>Come and let us reaſon together, ſaith the Lord, though your ſins be as ſcarlet, they ſhall be as white as ſnow,</hi> Iſa. 1.18. Yea whiter than ſnow. For the <hi>Prophet David</hi> laying open his <hi>blood-guiltineſſe,</hi> and his <hi>original impurity,</hi> uſeth theſe words: <hi>Purge me with byſop, and I ſhall be clean; waſh me, and I ſhall be whiter than ſnow,</hi> Pſal. 51.7. And in reaſon, did <hi>Chriſt</hi> come to call
+<hi>ſinners</hi> to repentance? and ſhall he not ſhew mercy to the <hi>penitent?</hi> Or who would not caſt his <hi>bur<g ref="char:EOLhyphen"/>then</hi> upon him, that <hi>deſires to give eaſe? As I live ſaith the Lord, I would not the death of a ſinner,</hi> Ezek. 18.32. and 33.11.</p>
+               <p>
+                  <hi>Only, apply</hi> not this <hi>ſalve</hi> before the <hi>ulcer be ſearched</hi> to the bottom: Lay not hold upon <hi>mercy,</hi> untill you be throughly <hi>humbled.</hi> The only way to become <hi>good;</hi> is firſt to believe that you are <hi>evil:</hi> and by <hi>accu<g ref="char:EOLhyphen"/>ſing our ſelves,</hi> we <hi>prevent Satan: By judging our ſelves,</hi> we <hi>prevent God.</hi>
+               </p>
+               <p>Are we as <hi>ſick of ſorrow,</hi> as we are <hi>of ſin;</hi> then may we hopefully go to the <hi>Phyſician of our ſouls,</hi> who came into the world only to <hi>cure the ſick,</hi> and to <hi>give light to them</hi> only, <hi>who ſit in darkneſſe, and in the ſhadow of death. God</hi> does not <hi>pour</hi> the <hi>oyl of grace,</hi> but into <hi>a broken,</hi> and con<g ref="char:EOLhyphen"/>trite <hi>heart.</hi>
+               </p>
+               <p>Wouldſt thou get out of the miſerable <hi>eſtate of nature,</hi> into the bleſſed
+<hi>eſtate of grace?</hi> and of <hi>Satans hondſlave</hi> become <hi>the child of God,</hi> and a member of <hi>Chriſt?</hi> Wouldſt thou truly know thine own <hi>heart?</hi> and be
+<pb n="13" facs="tcp:41867:7"/>very ſenſible how evil and wicked it is? that ſo thou maiſt have a more humble conceit of thy ſelf? lay to heart theſe three particulars: 1 The <hi>corruption of our nature,</hi> by reaſon of Original Sin. 2. <hi>Our manifold breach of Gods righteous Law, by actual ſin.</hi> 3. <hi>The guilt and puniſhment</hi> due to us for them <hi>both.</hi> This being done, thou wilt ſee and find, thy <hi>neceſſity of a Redeemer.</hi> And it is
+<hi>thirſt</hi> only that makes us <hi>reliſh</hi> our <hi>drink; hunger our meat.</hi> The
+<hi>full ſtomach</hi> of a <hi>Phariſee, ſurcharged</hi> with the ſuperfluities of his
+<hi>own merits, will loath the honey-comb of Chriſts righteouſneſſe.</hi> This was it, which made the young <hi>Prodigal,</hi> to reliſh even ſervants fare; though before wanton, when full fed at home. <hi>No</hi> more <hi>reliſh</hi> feels the <hi>Phariſaical heart,</hi> in <hi>Chriſts blood,</hi> than in a chip, But O how acceptable, is the <hi>fountain of living waters,</hi> to the <hi>chaſed hart panting and braying.</hi> The <hi>blood of Chriſt,</hi> to the weary and tyred ſoul; to the thirſty conſcience ſcorched with the ſenſe of <hi>Gods wrath:</hi> he that preſents him with it, now welcome is he? even as a ſpecial choice man, one of a thouſand. <hi>And the deeper the ſenſe of miſery is, the ſweeter the ſenſe of mercy is.</hi>
+               </p>
+            </sp>
+         </div>
+         <div n="38" type="section">
+            <head>Sect. XXXVIII.</head>
+            <sp>
+               <p>Then if you would be ſatisfied for time to come, whether your Repen<g ref="char:EOLhyphen"/>tance, and converſion be true and ſound; theſe particulars will infallibly inform you. If you ſhall
+<hi>perſevere,</hi> (when this trouble for ſin is over) in doing that which now you
+<hi>purpoſe,</hi> it is an infallible ſign, your re<g ref="char:EOLhyphen"/>pentance is ſound, otherwiſe not. If thou doſt call to mind, the <hi>Vow</hi> which thou madſt in <hi>Baptiſm,</hi> and doſt thy endeavour to <hi>perform</hi> that, which then thou didſt <hi>promiſe:</hi> If thou doſt
+<hi>ſquare thy life, according to the rule of Gods Word;</hi> and not after the <hi>rudiments of the world:</hi> If thou art willing to <hi>forſake all ſin,</hi> without reſerving one: (for otherwiſe that <hi>one ſin</hi> may prove the <hi>bane of all</hi> thy <hi>graces:</hi> even as
+<hi>Gideon</hi> had <hi>ſe<g ref="char:EOLhyphen"/>venty Sons,</hi> and but <hi>one Baſtard:</hi> and yet <hi>that Baſtard, deſtroyed all the reſt</hi> that were <hi>Legitimate,</hi> Judg 9.5.) <hi>Sin</hi> is like the Ivy in the <hi>wall,</hi> cut off <hi>bough, branch, body, ſtump,</hi> yet ſome
+<hi>ſtrings</hi> or other will <hi>ſprout</hi> out again: Till the <hi>root</hi> be <hi>pluck't up,</hi> or the <hi>wall</hi> be <hi>pulled down</hi> and ruined, it will never utterly
+<hi>die.</hi>
+               </p>
+               <p>
+                  <hi>Regeneration,</hi> or <hi>new birth,</hi> is <hi>a creation of new qualities</hi> in the ſoul, as being by nature only evil diſpoſed. <hi>Gods children</hi> are known by this
+<hi>mark, they walk not after the fleſh, but after the ſpirit,</hi> Rom. 8.1. If
+<hi>Chriſt</hi> have called you to his ſervice, your life will appear more ſpiritual, and excellent than others.</p>
+               <p>As for your <hi>fails,</hi> 'tis a ſign that <hi>ſin</hi> hath not gained your
+<hi>conſent,</hi> but <hi>committed a rape upon your ſoul;</hi> when you cry out to
+<hi>God.</hi> If the <hi>raviſhed Virgin under the Law cried out,</hi> ſhe was pronounced
+<hi>guiltleſſe.</hi> A <hi>ſheep</hi> may <hi>fall</hi> into the <hi>mire,</hi> but a
+<hi>ſwine</hi> delights to <hi>wallow in the mire.</hi> Great difference between a <hi>woman</hi> that is <hi>forced,</hi> though ſhe cries out and ſtrives, and an alluring
+<hi>Adultereſſe.</hi>
+               </p>
+               <p>Again, The <hi>thoughts of</hi> the <hi>godly</hi> are <hi>godly,</hi> of the <hi>wicked, worldly;</hi> and by theſe, good and evil men are beſt and trulieſt differenced one from another. Would we know our own hearts, and whether they be changed by a new birth? Examine we our
+<hi>thoughts, words, actions, paſſions;</hi> eſpe<g ref="char:EOLhyphen"/>cially,
+<pb n="14" facs="tcp:41867:8"/>our thoughts will inform us; for theſe cannot be ſubject to hypo<g ref="char:EOLhyphen"/>criſie, as words and deeds are.</p>
+            </sp>
+         </div>
+         <div n="39" type="section">
+            <head>Sect. XXXIX.</head>
+            <sp>
+               <p>Then by way of <hi>caution</hi> know; that a <hi>child</hi> may as ſoon <hi>create it ſelf,</hi> a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a <hi>man</hi> in the ſtate of Nature <hi>regenerate himſelf.</hi> We cannot act in the leaſt unleſſe <hi>God</hi> beſtows upon us daily <hi>privative grace,</hi> to <hi>defend</hi> us <hi>from evil</hi> and daily <hi>poſitive grace, inabling</hi> us <hi>to do good.</hi> And thoſe that are of
+<hi>Chriſt</hi> teaching, know both from the <hi>word,</hi> and by <hi>experience,</hi> that of the<g ref="char:cmbAbbrStroke">̄</g>mſelve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they are not only <hi>weak,</hi> but even <hi>dead</hi> to what is good; <hi>moving</hi> no mor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> than they are <hi>moved:</hi> that their beſt <hi>works</hi> are
+<hi>faulty,</hi> all their <hi>ſins dead<g ref="char:EOLunhyphen"/>ly,</hi> all their <hi>natures corrupted originally. You hath he quickned, that were dead in treſpaſſes and ſins,</hi> Epheſ. 2.1. Yea, we are altogether ſo <hi>dead in ſin</hi> that we cannot <hi>ſtir the leaſt joynt,</hi> no not ſo much as feel our <hi>own deadneſs</hi> nor <hi>deſire life,</hi> except <hi>God</hi> be pleaſed to <hi>raiſe</hi> and <hi>reſtore</hi> our <hi>ſouls</hi> from the <hi>death of ſin, and grave of long cuſtom,</hi> to the <hi>life of grace.</hi> Apt we ar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to all <hi>evil,</hi> but reprobate and indiſpoſed to all <hi>grace</hi> and <hi>goodneſs;</hi> yea to all the meanes thereof.</p>
+               <lg>
+                  <l>
+                     <hi>My powers are all corrupt, corrupt my will:</hi>
+                  </l>
+                  <l>
+                     <hi>Marble to good, but wax to what is ill.</hi>
+                  </l>
+               </lg>
+               <p>Inſomuch, that we are <hi>not ſufficient</hi> of our ſelves <hi>to think,</hi> much leſſe <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>ſpeak,</hi> leaſt of all <hi>to do</hi> that which is <hi>good,</hi> 2 Cor. 3.5. Joh. 15.4, 5. I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we have power to <hi>chooſe</hi> or <hi>refuſe</hi> the object; to do theſe well we have <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> power. We have ability, we have <hi>will</hi> enough <hi>to undo our ſelves, ſcop<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> enough <hi>hell-ward;</hi> but neither motion, nor will to do good: that muſt b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> put into us by him that gives both
+<hi>power and will,</hi> and <hi>power to will.</hi>
+               </p>
+               <p>Finally, Each ſanctified heart feels this, but no words are able ſufficient<g ref="char:EOLunhyphen"/>ly to expreſſe, what impotent wretches we are, when we are not ſuſtain<g ref="char:EOLunhyphen"/>ed. So that we have <hi>no merit,</hi> but the <hi>mercy of God</hi> to ſave us: nothing but the <hi>blood of Chriſt,</hi> and his mediation <hi>to cleanſe and redeem us:</hi> nothing but <hi>his obedience to inrich us.</hi> As for our <hi>good works,</hi> we are altogether be holding to <hi>God</hi> for them, not
+<hi>God</hi> to us, nor we to our ſelves: becauſe they are only <hi>his works in us.</hi>
+               </p>
+               <p>Whatſoever thou <hi>art,</hi> thou <hi>oweſt</hi> to him that <hi>made thee:</hi> whatever tho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>haſt,</hi> thou <hi>oweſt</hi> to him that <hi>Redeemed thee.</hi> Therefore if we do any thing amiſſe, let us <hi>accuſe our ſelves:</hi> if any thing well, let us give all the <hi>praiſe
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> God.</hi> And indeed this is the <hi>teſt</hi> of a <hi>true or falſe Religion:</hi> that which teacheth us to <hi>exalt God</hi> moſt, and moſt to <hi>depreſſe our ſelves</hi> is the <hi>true</hi> that which doth moſt <hi>prank up our ſelves, and detract from God, is th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> falſe.</hi> As <hi>Bonaventure</hi> well notes.</p>
+            </sp>
+         </div>
+         <div n="40" type="section">
+            <head>Sect. XL.</head>
+            <sp>
+               <p>Now to wind up with a word of <hi>exhortation;</hi> if thou beeſt convince<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and reſolveſt upon a new courſe; let thy reſolution be peremptory, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conſtant: and take heed you harden not again; as <hi>Pharaoh,</hi> the <hi>Philiſtin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the <hi>young man</hi> in the Goſpel, <hi>Pilate</hi> and
+<hi>Judas</hi> did: reſemble not the <hi>ir<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> which is no longer <hi>ſoft,</hi> than it is in the fire; for <hi>that good</hi> (ſaith <hi>Grego<g ref="char:EOLunhyphen"/>ry</hi>) will do us <hi>no good,</hi> which is not <hi>made good by perſeverance.</hi> If wi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> theſe premonitions, the <hi>Spirit</hi> hath vouchſafed to ſtir up in thine <hi>heart</hi> an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:41867:8"/>good motions, and holy purpoſes to obey <hi>God,</hi> in letting thy ſins go; <hi>quench not,</hi> grieve not <hi>the Spirit,</hi> 1 Theſ. 5.19. <hi>Return</hi> not with the <hi>Dog</hi> to thy <hi>vomit;</hi> leſt thy <hi>latter end</hi> prove <hi>ſeven-fold worſe than thy beginning,</hi> Matth. 12.43, 45. O it is a fearfull thing to receive the grace of
+<hi>God</hi> in vain! and a <hi>desperate thing,</hi> being warned of a <hi>rock,</hi> willfully to caſt our ſelves upon it. Neither let <hi>Satan</hi> perſwade you to defer your repentance; no, not an hour; leſt your <hi>reſolution</hi> proves as a <hi>falſe conception,</hi> which never comes to <hi>bearing.</hi> Beſides, death may be ſuddain: even the leaſt of a thouſand things can kill you, and give you no leaſure to be ſick.</p>
+               <p>Thirdly, If thou wilt be ſafe from <hi>evil works,</hi> avoid the <hi>occaſions;</hi> have no fellowſhip with the workers of iniquity: neither fear their ſcoffs; for this be ſure of, if your perſon and waies <hi>pleaſe God,</hi> the <hi>world will be diſpleaſed</hi> with both: If <hi>God</hi> be your <hi>friend, men</hi> will be your <hi>enemies:</hi> if they exerciſe their <hi>malice,</hi> it is where he ſhews <hi>mercy.</hi> But take heed of loſing
+<hi>Gods</hi> favour to keep theirs.</p>
+               <p>
+                  <hi>Beda</hi> tels <hi>of a great man,</hi> that was admoniſhed by his friends in his ſick<g ref="char:EOLhyphen"/>neſſe to repent: who anſwered, He would not yet; for that if he ſhould recover, his friends and companions would laugh at him: but growing ſicker and ſicker, they again preſt him: but then his anſwer was, that it was now too late; for I am judged and condemned already.</p>
+               <p>A man cannot be a <hi>Nathaniel, in whoſe heart there it no guile;</hi> but the world counts him a <hi>fool.</hi> But <hi>Chriſt</hi> ſaies, Verily <hi>except ye be converted, and become at little children; ye ſhall not enter into the Kingdom of Heaven,</hi> Mat. 18.3.</p>
+               <p>Again, <hi>Satan</hi> and your deceitfull heart will ſuggeſt unto you, that a <hi>Religious life,</hi> is <hi>a dumpiſh</hi> and <hi>melancholy life:</hi> but holy <hi>David</hi> will tell you, that <hi>light it ſown to the righteous, and joy to the upright,</hi> Pſal. 97.11. Iſa.
+65.14. And experience tells, that <hi>earthly</hi> and <hi>bodily joys</hi> are but the
+<hi>body,</hi> or rather the <hi>dregs</hi> of that <hi>joy,</hi> which <hi>Gods</hi> people feel and are raviſhed with. As O the calm, and quietneſſe of a good conſcience! the aſſurance of the pardon of ſin, and joy of the Holy Ghoſt, the honeſty of a virtuous and holy life how ſweet they are. Yea even <hi>Plato an Heathen</hi> could ſay, That if wiſdom and virtue could but repreſent it ſelf to the eyes, it would ſet the heart on fire with the love of it. And the like of a ſinners ſadneſſe, as hear what <hi>Seneca</hi> ſaies; if there were no <hi>God to puniſh him, no Devil to torment him, no Hell to burn him, no man to ſee him:</hi> yet would he not ſin, for the uglineſſe and filthineſſs of ſin, and the guilt and ſadneſſe of his conſcience. But experience is the beſt informer: wherefore take the counſell of holy <hi>David,</hi> Pſalm. 34.8.<hi>O taſt and ſee, that the Lord is good: bleſſed is the man, that truſteth in him.</hi> To which ac<g ref="char:EOLhyphen"/>cordeth that of holy <hi>Bernard, Good</hi> art thou, O <hi>Lord,</hi> to the ſoul that <hi>ſeeks thee;</hi> what art thou then to the ſoul that <hi>finds thee?</hi> As I may appeal to
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny mans conſcience, that hath been ſoftned with the unction of grace; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd truly taſted of the powers of the world to come; to him that hath the <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ove of God ſhed abroad in his heart by the Holy Ghoſt:</hi> whether his whole
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ife be not a perpetual <hi>halellujah,</hi> in compariſon of his natural condition. Whence they are able to ſleight all ſuch objections, as he did: you tell me
+<pb n="16" facs="tcp:41867:9"/>that ſcrupling of ſmall matters, is but ſtumbling at ſtraws; that they be but trifles: when I know your tongue can tell nothing but truth, I will believe you.</p>
+               <p>Fifthly, Beg of <hi>God</hi> that he will give you a <hi>new heart,</hi> and when the
+<hi>heart</hi> is changed, all the <hi>members</hi> will <hi>follow</hi> after it, as the reſt of the <hi>crea<g ref="char:EOLhyphen"/>tures</hi> after the <hi>Sun,</hi> when it <hi>ariſeth.</hi> But without a work upon the heart, wrought by the Spirit of God; it will follow its own inclination to that which it affecteth; whatſoever the judgment ſhall ſay to the contrary: That muſt be firſt
+<hi>reformed,</hi> which was firſt <hi>deformed.</hi> It is idle, and to no purpoſe to purge the <hi>channell,</hi> when the <hi>fountain</hi> is corrupt. Whence the <hi>Apoſtle</hi> orderly bids us, firſt be <hi>renewed in the ſpirit of our minds;</hi> and then <hi>let him that ſtole, ſteal no more,</hi> Eph. 4.23, 24. Yea it is <hi>Gods</hi> own counſell, to the men of
+<hi>Jeruſalem,</hi> Jer. 4. <hi>Waſh thine heart from wickedneſs: that thou maiſt be ſaved,</hi> ver. 14. It is moſt ridiculous to apply <hi>remedies</hi> to the out<g ref="char:EOLhyphen"/>ward parts, when the <hi>diſtemper</hi> lies in the ſtomach. To what purpoſe is it to <hi>crop</hi> off the top of <hi>weeds,</hi> or <hi>lop</hi> off the <hi>boughs</hi> of the <hi>tree,</hi> when the
+<hi>root</hi> and <hi>ſtalk</hi> remain in the earth: as cut off the <hi>ſprig</hi> of a
+<hi>tree,</hi> it grows ſtill; a <hi>bough,</hi> an <hi>arm,</hi> ſtill it grows, lop of the
+<hi>top,</hi> yea ſaw it in the midſt, yet it will grow again; ſtock it up by the
+<hi>roots,</hi> then (and not till then) it will grow no more. Whence it is that God ſaith,
+<hi>Give me thine heart,</hi> Prov. 23.26. <hi>Great Cities</hi> once expunged, the <hi>dorpes</hi> and <hi>Villages</hi> will ſoon come in of themſelves: the <hi>heart</hi> is the treaſury and
+<hi>ſtore-houſe</hi> of wicked<g ref="char:EOLhyphen"/>neſs, <hi>Mat.</hi> 12.34. ſuch as the heart is, ſuch are the actions of the body which proceed from it, <hi>Mat.</hi> 12.35. Therefore as <hi>Chriſt</hi> ſaith, <hi>Make clean within, and all will be clean,</hi> otherwiſe not, <hi>Mat.</hi> 23.26. Therefore <hi>Davids</hi> prayer is, <hi>Create in me a new heart O Lord, and renew a right Spirit within me,</hi> Pſal. 51.10. do thou the like, importune him for grace; that you may firmly
+<hi>reſolve,</hi> ſpeedily <hi>begin,</hi> and continually <hi>perſevere,</hi> in doing and ſuffer<g ref="char:EOLhyphen"/>ing his holy will: deſire him to <hi>inform</hi> and <hi>reform</hi> you ſo, that you may neither <hi>misbelieve</hi> not <hi>miſlive;</hi> to change and purifie your <hi>naure, ſubdue</hi> your <hi>reaſon, rectifie</hi> your <hi>judgment, reform</hi> and ſtrengthen your
+<hi>will, renew</hi> your <hi>affections,</hi> and beat down in you, whatſoever ſtands in oppoſition to the <hi>Scepter of Jeſus Chriſt.</hi>
+               </p>
+               <p>Sixthly and laſtly; if you receive any power againſt your former cor<g ref="char:EOLhyphen"/>ruptions, forget not to be <hi>thankefull,</hi> yea ſtudy all poſſible thankfulneſs. For that you and I are not at this preſent <hi>frying in Hell flames,</hi> never to be freed; that we have the offer of
+<hi>grace here,</hi> and <hi>glory hereafter,</hi> it is his unſpeakable goodneſs. And there is nothing more <hi>pleaſing to God,</hi> nor <hi>profitable to us;</hi> both for the <hi>procuring of the good we want,</hi> or <hi>continuing the good we have;</hi> than thankfulneſs. He will
+<hi>ſow</hi> there, and there onely <hi>plenty of his bleſſings;</hi> where he is ſure to
+<hi>reap plenty of thanks and ſervice:</hi> but who will <hi>ſow</hi> thoſe <hi>barren ſands,</hi> where they are ſure not only to be without all hope of a good <hi>harveſt,</hi> but are ſure to looſe, both their <hi>ſeed and labour. Conſider what hath been ſaid, and the Lord give you under<g ref="char:EOLhyphen"/>ſtanding in all things.</hi> And ſo much for the <hi>Second Part. An Appendix</hi> fol lowes: wherein you have inſtances of all ſorts: how <hi>ſin beſots men.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold only by <hi>James Crump,</hi> in Little Bartholomews Well-yard, 1660.</p>
+            <pb facs="tcp:41867:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
